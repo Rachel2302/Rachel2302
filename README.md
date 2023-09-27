@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishika Rachel Manda</h1>
 <h3 align="center">A passionate Data Science grad student & Aspiring Data Scientist</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3853792/screenshots/13895772/media/adafde56c266d90cfb7f26f328f18b6b.png?resize=400x0">
+<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3853792/screenshots/13895772/media/adafde56c266d90cfb7f26f328f18b6b.png?resize=400x0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachel2302&label=Profile%20views&color=0e75b6&style=flat" alt="rachel2302" /> </p>
 
