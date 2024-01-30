@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Behind the Likes](https://github.com/Rachel2302/Behind_the_Likes)
 
-- 🌱 I’m currently learning **Algorithms for DS, Spark, R**
+- 🌱 I’m currently learning **Intelligent Agents, Spark, R**
 
-- 🤝 I’m looking for help with **Generative AI, Cloud computing**
+- 🤝 I’m looking for help with **Generative AI, Large learning models (LLMs)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rachel2302?tab=repositories](https://github.com/Rachel2302?tab=repositories)
 
